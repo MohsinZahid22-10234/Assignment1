@@ -1,0 +1,36 @@
+.container-fluid{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+fieldset{
+    display: inline-block;
+    background-color:lawngreen;
+    text-align: left;
+
+}
+form{
+    color:brown;
+    text-align: center;
+}
+#CV{
+    width:1600px;
+    height:900px;
+}
+#pic{
+    float:right;
+    width: 400px;
+    height:300px;
+}
+#home{
+    color:blueviolet;
+}
+#centering{
+    text-align: center;
+}
+#heading{
+    color:deeppink;
+}
+#details{
+    color:darkgreen;
+}
